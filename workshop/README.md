@@ -1,5 +1,15 @@
 # About Vue Vixens Workshops
 
+<TooltipWrapper>
+
+## This part should be rendered inside tooltip component
+
+_It's actually a markdown **showing a tooltip**_
+
+Click on it to show the tooltip.
+
+</TooltipWrapper>
+
 Vue Vixens is an initiative created by Jen Looper, a Senior Developer Advocate at [Progress](http://www.progress.com). Vue Vixens' mission is to create workshops to teach Vue.js in a cool and fun way to 'foxy people who identify as women'. It is based on the successful model pioneered by Shmuela Jacobs for the Angular community, [http://www.ng-girls.org](ng-girls.org). Ng-Girls was in turn inspired by the Rails Bridge and Django Girls initiatives.
 
 ::: tip Not just workshops!
@@ -36,24 +46,23 @@ The goal of the program is to familiarize women and those who identify as such w
 
 ## Workshop Content
 
--   Chapter 1: Introducing The Pet Shop’s UI – turn on the lights!
-    -   Using CSS and variables, enable a switch on a web page that will turn on your shop’s lights (e.g. switch the page’s theme). Very basic introduction to our project’s code structure
--   Chapter 2: Build a Pet Gallery
-    -   Using static data, create an interface to display the pet by image and name in a card interface
--   Chapter 3: Connect to an API
-    -   Swap out your static interface with a connection to the Dog CEO API: [https://dog.ceo/dog-api/](https://dog.ceo/dog-api/)
--   Chapter 4: Create a Dog Adoption Experience
-    -   Create a 'favorites list' for the shop so that you can add and remove a dog from your list
--   Chapter 5: Complete the Experience with a Form
-    -   Create a functional form to adopt a dog
--   Chapter 6: Mobilize me
-    -   Create 'Tindogs', an app to sort through a deck of dog images. This app will be built in the NativeScript Playground
+- Chapter 1: Introducing The Pet Shop’s UI – turn on the lights!
+  - Using CSS and variables, enable a switch on a web page that will turn on your shop’s lights (e.g. switch the page’s theme). Very basic introduction to our project’s code structure
+- Chapter 2: Build a Pet Gallery
+  - Using static data, create an interface to display the pet by image and name in a card interface
+- Chapter 3: Connect to an API
+  - Swap out your static interface with a connection to the Dog CEO API: [https://dog.ceo/dog-api/](https://dog.ceo/dog-api/)
+- Chapter 4: Create a Dog Adoption Experience
+  - Create a 'favorites list' for the shop so that you can add and remove a dog from your list
+- Chapter 5: Complete the Experience with a Form
+  - Create a functional form to adopt a dog
+- Chapter 6: Mobilize me
+  - Create 'Tindogs', an app to sort through a deck of dog images. This app will be built in the NativeScript Playground
 
 ---
 
 ### Thank You to Our Contributors!
 
-| [<img alt="NataliaTepluhina" src="https://avatars0.githubusercontent.com/u/18719025?v=4&s=117" width="117">](https://github.com/NataliaTepluhina) | [<img alt="jlooper" src="https://avatars2.githubusercontent.com/u/1450004?v=4&s=117" width="117">](https://github.com/jlooper) | [<img alt="immarina" src="https://avatars2.githubusercontent.com/u/14843771?v=4&s=117" width="117">](https://github.com/immarina) | [<img alt="immarina" src="https://avatars2.githubusercontent.com/u/17781315?v=4&s=117" width="117">](https://github.com/lauragift21)
-| :--: |:--: |:--: |:--:
-[Natalia Tepluhina](https://github.com/NataliaTepluhina)                                              |[Jen Looper](https://github.com/jlooper)|[Marina Mosti](https://github.com/immarina)|[Egwuenu Gift](https://github.com/lauragift21)
-
+| [<img alt="NataliaTepluhina" src="https://avatars0.githubusercontent.com/u/18719025?v=4&s=117" width="117">](https://github.com/NataliaTepluhina) | [<img alt="jlooper" src="https://avatars2.githubusercontent.com/u/1450004?v=4&s=117" width="117">](https://github.com/jlooper) | [<img alt="immarina" src="https://avatars2.githubusercontent.com/u/14843771?v=4&s=117" width="117">](https://github.com/immarina) | [<img alt="immarina" src="https://avatars2.githubusercontent.com/u/17781315?v=4&s=117" width="117">](https://github.com/lauragift21) |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: |
+|                                             [Natalia Tepluhina](https://github.com/NataliaTepluhina)                                              |                                            [Jen Looper](https://github.com/jlooper)                                            |                                            [Marina Mosti](https://github.com/immarina)                                            |                                            [Egwuenu Gift](https://github.com/lauragift21)                                            |
